@@ -1,2 +1,2 @@
-# Welcome to Remix Template!
+# Welcome to Remix Enterprise Boilerplate!
 
