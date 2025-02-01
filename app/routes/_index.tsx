@@ -62,7 +62,7 @@ export default function Index() {
 								{' '}
 								Remix boilerplate!
 							</Link>{' '}
-							Experience rapid UI development, fast by default, with config optimized
+							Experience rapid UI development, fast by default, without config optimized
 							for performance. Tailwind CSS and more. This boilerplate! inspired by{' '}
 							<br />{' '}
 							<Link
