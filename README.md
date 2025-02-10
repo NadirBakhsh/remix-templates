@@ -5,7 +5,7 @@ Welcome to the Remix Enterprise Boilerplate! 🚀 This open-source template is d
 Integrated features
 Don't worry, with this template you will anyways get all the awesomeness you need:
 
-- [Remix ](https://remix.run/)
+- [Remix ](https://remix.run/) - The official Remix framework for building modern web applications ✨
 - [💅 Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development ✨
 - [ESlint](https://eslint.org/) and [Prettier](https://prettier.io/) - For clean, consistent, and error-free code
 
