@@ -1,0 +1,35 @@
+{
+    "printWidth": 100,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "jsxSingleQuote": false,
+    "arrowParens": "always",
+    "endOfLine": "lf",
+    "proseWrap": "preserve",
+    "quoteProps": "as-needed",
+    "plugins": [
+        "@trivago/prettier-plugin-sort-imports",
+        "prettier-plugin-tailwindcss"
+    ],
+    "importOrder": [
+      "^react$",                    
+      "^@?remix-run/(.*)$",         
+      "^@core/(.*)$",               
+      "^@server/(.*)$",             
+      "^@components/(.*)$",         
+      "^@ui/(.*)$",                 
+      "^@hooks/(.*)$",              
+      "^@lib/(.*)$",                
+      "^@routes/(.*)$",             
+      "^@store/(.*)$",              
+      "<THIRD_PARTY_MODULES>",      
+      "^[./]"                        
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+  }
+  
